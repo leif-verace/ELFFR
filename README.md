@@ -11,10 +11,10 @@ random effects.
 
 ## Installation
 
-Download the R package `ELFFR` and run the following command within R or RStudio:
+The R package may be downloaded by running the following command within R or RStudio:
 
 ``` r
-install.packages("ELFFR", dependencies = TRUE)
+devtools::install_github("leif-verace/ELFFR")
 ```
 
 ## Package Usage
