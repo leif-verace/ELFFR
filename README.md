@@ -6,7 +6,7 @@
 
 ELFFR implements a marginal approach to fitting longitudinal function-on-function
 regression models. This approach allows models to be fit quickly, even when the number
-of subjects is large. The package currently only allows for a random intercept term for
+of subjects is large. The package currently allows for a random intercept term for
 random effects.
 
 ## Installation
